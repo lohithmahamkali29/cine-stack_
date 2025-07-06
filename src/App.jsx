@@ -12,24 +12,139 @@ function App() {
         </div>
         <hr></hr>
         <br></br>
+    <div className='movies'>
         <div className='second'>
-        <h1></h1>
-        <h1></h1>
-        <h1></h1>
-        <h1></h1>
-        <h1></h1>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
         </div>
         <br></br>
         <br></br>
-        <div className='third'>
-          <h1></h1>
-          <h1></h1>
-          <h1></h1>
-          <h1></h1>
-          <h1></h1>
-
+        <br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
         </div>
+        </div>
+        <br></br>
+        <br></br><br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+        <br></br>
+        <br></br><br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+        <br></br>
+        <br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+        <br></br>
+        <br></br><br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+        <br></br>
+        <br></br><br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+        <br></br>
+        <br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+        <br></br>
+        <br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+        <br></br>
+        <br></br>
+        <div className='second'>
+        <div id='movie'>
+          <img src="/queen.png" height= "210" />
+          
+          <div id='add'>
+            <h4>Queen</h4>
+            <img src="/add.png" a="right" width="20"></img>
+          </div>
+          
+        </div>
+        </div>
+          
     </div>
+  </div>
   )
     
 }
