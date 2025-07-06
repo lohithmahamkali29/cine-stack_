@@ -1,13 +1,64 @@
-# React + Vite
+🎬 Cine-Stack
+Cine-Stack is a React-based movie web application inspired by platforms like Netflix. This project was built to practice and demonstrate Add to Cart logic in a real-world UI, simulating features like selecting movies or adding them to a personal list.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Browse movie collection
+✅ Add movies to "My List" (Cart logic)
+✅ Responsive UI with modern design
+✅ Clean and modular React code structure
+✅ State management using React Hooks
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+React (Functional Components & Hooks)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+CSS (for styling)
 
-## Expanding the ESLint configuration
+JavaScript (ES6+)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# cine-stack_
+(Optional: Mention any other libraries if you use later like Axios, React Router, etc.)
+
+🎯 Project Purpose
+This project was developed as a hands-on exercise to:
+
+Implement Add-to-Cart logic in a movie website context
+
+Improve React development skills
+
+Understand component-based UI building
+
+Practice state management in React
+
+📦 Installation & Setup
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/cine-stack.git
+Navigate to the project folder
+
+bash
+Copy
+Edit
+cd cine-stack
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the development server
+
+bash
+Copy
+Edit
+npm start
+The app will run at http://localhost:3000.
+
+
+
+🙌 Acknowledgements
+Inspired by Netflix UI for educational purposes.
+Built purely for learning and practicing React and Add-to-Cart logic.
+
+
